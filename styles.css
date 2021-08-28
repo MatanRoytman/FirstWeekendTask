@@ -1,6 +1,24 @@
 #navbar {
   position: fixed;
+  background-color: white;
+  color: #fda371;
+  border: 1px solid #7eb3ff;
+  padding: 6px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
+/*
+.nav-link {
+  background-color: white;
+  color: #fda371;
+  border: 1px solid #7eb3ff;
+  padding: 6px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;*/
+}
+
 header {
   display: block;
 }
@@ -8,4 +26,16 @@ header {
   body {
     background-color: lightblue;
   }
+}
+
+body {
+  background-image: url("https://wallpapercave.com/wp/wp3171095.png");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  font-size: large;
+  font-variant: small-caps;
+  color: rgb(2, 0, 100);
+  font-weight: bold;
 }
